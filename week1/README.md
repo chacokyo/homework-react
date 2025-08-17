@@ -12,7 +12,7 @@
 
 ---
 
-### [UploadButton](/week1/src/components/buttons/button-upload/README.md)
+### [UploadButton](./src/components/buttons/button-upload/README.md)
 
 - **경로** : `src/components/buttons/upload-button/`
 - **파일** : `const.js` : 업로드 상태 및 라벨(`UPLOAD_LABEL`) 상수
