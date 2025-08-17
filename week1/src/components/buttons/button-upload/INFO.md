@@ -25,7 +25,7 @@
 
 ---
 
-## ✨ 사용 예시
+## 사용 예시
 
 ```jsx
 import UploadButton, { UPLOAD_STATUS } from './UploadButton'
