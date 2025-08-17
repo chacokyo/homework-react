@@ -2,7 +2,7 @@
 
 ## button
 
-### [BaseButton](./src/components/buttons/button-base/README.MD)
+### [BaseButton](/week1/src/components/buttons/button-base/README.md)
 
 - **경로**: `src/components/buttons/button-base/`
 - **파일**
@@ -12,7 +12,7 @@
 
 ---
 
-### [UploadButton](./src/components/buttons/button-upload/README.MD)
+### [UploadButton](/week1/src/components/buttons/button-upload/README.md)
 
 - **경로** : `src/components/buttons/upload-button/`
 - **파일** : `const.js` : 업로드 상태 및 라벨(`UPLOAD_LABEL`) 상수
@@ -23,7 +23,7 @@
 
 ## icons
 
-### [SvgIcon](./src/components/icons/static/README.MD)
+### [SvgIcon](/week1/src/components/icons/static/README.md)
 
 - **경로** : `src/components/icons/static/`
 - **파일** : `const.js` : `SVG_TYPE`, `SVG_PATH` 정의
